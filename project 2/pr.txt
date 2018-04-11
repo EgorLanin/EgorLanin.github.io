@@ -1,0 +1,11 @@
+{  background: url(../img/main.jpg) no-repeat center bottom / cover;
+  height: 750px;
+  display: flex;
+  <nav>
+    <ul class="menu">
+        <li><a href="#">Главная</a></li>
+        <li><a href="#">О практике</a></li>
+      <li><a href="#">Новости</a></li>
+      <li><a href="#">Контакты</a></li>
+    </ul>
+  </nav>
